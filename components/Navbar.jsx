@@ -6,7 +6,7 @@ const Navbar = () => {
       <Link href={"/"} className="text-white font-bold">
         GTCoding
       </Link>
-      <Link href={"/addTopic"} className="bg-white p-2">
+      <Link href={"/addTopic"} className="bg-white text-blue-800 p-2">
         Add Topic
       </Link>
     </nav>
