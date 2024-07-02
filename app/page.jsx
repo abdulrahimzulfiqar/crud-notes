@@ -1,11 +1,11 @@
-import TopicsList from "@/components/TopicsList"
+import TopicsList from "@/components/TopicsList";
 
 const Page = () => {
   return (
     <div>
-      <TopicsList/>
+      <TopicsList />
     </div>
-  )
-}
+  );
+};
 
-export default Page
+export default Page;
